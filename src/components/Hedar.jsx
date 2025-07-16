@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Container from './Container'
-import logo from '../assets/logo.png'
+
+import logo from '../assets/Logo.png';
 import { FaBars } from "react-icons/fa";
 import { GiCrossedSwords } from "react-icons/gi";
 
